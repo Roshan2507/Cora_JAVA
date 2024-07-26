@@ -41,7 +41,7 @@ public class Matrix_Cisco {
 		
 		System.out.println("minimum number from matrix is: "+min_num);
 		System.out.println("column number of selected matrix: "+ col_num);
-		System.out.println(max_num);
+		System.out.println("maximum number from the selected column: "+max_num);
 		
 		
 	}
